@@ -6,7 +6,6 @@
 [![Status](https://img.shields.io/badge/status-Em%20Desenvolvimento-yellow)]()
 
 Sistema inteligente de monitoramento que detecta e rastreia **pessoas, celulares e placas de veículos** em tempo real usando **YOLOv8** e **DeepSort**.  
-Inclui geração de relatórios automáticos e integração com **painel web** e **alertas Telegram**.  
 
 ---
 
@@ -18,7 +17,7 @@ Inclui geração de relatórios automáticos e integração com **painel web** e
 ✅ Contagem em tempo real exibida no terminal  
 ✅ Compatível com câmeras IP (RTSP/ONVIF) e USB  
 ✅ Painel web (em desenvolvimento)  
-✅ Alertas Telegram quando objetos específicos são detectados
+
 
 ---
 
